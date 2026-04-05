@@ -52,14 +52,14 @@ Interactive dashboard includes:
 - Top risky products (by impact score)
   
 ## 📁 Project Structure
-'''
+```
 data/
 analysis.ipynb
 product_analysis.csv
 powerbi/
 images/
 README.md
-''' 
+```
 
 ## 📌 Key Insights
 

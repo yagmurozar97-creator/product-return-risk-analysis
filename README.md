@@ -1,6 +1,6 @@
 # Product Return Risk Analysis
 
-This project analyzes product return behavior and identifies high-risk products using Python and Power BI.This project analyzes product return behavior and identifies high-risk products using data analysis techniques in Python and interactive visualizations in Power BI.
+This project analyzes product return behavior and identifies high-risk products using data analysis techniques in Python and interactive visualizations in Power BI.
 
 ## 📊 Project Overview
 
@@ -13,7 +13,7 @@ The goal of this project is to:
 ## 🧠 Methodology
 
 ### 1. Data Cleaning
-- Filtered only United Kingdom transactions
+- Filtered transactions to United Kingdom to ensure data consistency and reduce noise from multi-country variations
 - Cleaned product descriptions
 - Removed invalid and operational records
 
@@ -74,5 +74,10 @@ README.md
 - Power BI
 
 ## 📷 Dashboard Preview
+
 ![Dashboard](Product_Risk_Analysis_PBI.png)
+
+## 📌 Data Source
+
+- Online Retail II Dataset (UCI Machine Learning Repository)
 
